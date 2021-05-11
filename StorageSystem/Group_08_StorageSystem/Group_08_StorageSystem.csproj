@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9228829D-F8D1-4682-82B0-CC75BEE9BD93}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Group_08_StorageSystem</RootNamespace>
+    <AssemblyName>Group_08_StorageSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EmployeesEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeesEdit.Designer.cs">
+      <DependentUpon>EmployeesEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeesInsert.Designer.cs">
+      <DependentUpon>EmployeesInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeesMessage.Designer.cs">
+      <DependentUpon>EmployeesMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachineMessage.Designer.cs">
+      <DependentUpon>MachineMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineRoomMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachineRoomMessage.Designer.cs">
+      <DependentUpon>MachineRoomMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderInsert.Designer.cs">
+      <DependentUpon>OrderInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderMessage.Designer.cs">
+      <DependentUpon>OrderMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderMessageDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderMessageDetail.Designer.cs">
+      <DependentUpon>OrderMessageDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartEdit.Designer.cs">
+      <DependentUpon>PartEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartInsert.designer.cs">
+      <DependentUpon>PartInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartMessage.Designer.cs">
+      <DependentUpon>PartMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartPicture.Designer.cs">
+      <DependentUpon>PartPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartsTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartsTransfer.designer.cs">
+      <DependentUpon>PartsTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PWDEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PWDEdit.Designer.cs">
+      <DependentUpon>PWDEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Skin\AbstractFactory.cs" />
+    <Compile Include="Skin\BlackButton.cs" />
+    <Compile Include="Skin\BlackComboBox.cs" />
+    <Compile Include="Skin\BlackForm.cs" />
+    <Compile Include="Skin\BlackSkin.cs" />
+    <Compile Include="Skin\BlackTextBox.cs" />
+    <Compile Include="Skin\BlueButton.cs" />
+    <Compile Include="Skin\BlueComboBox.cs" />
+    <Compile Include="Skin\BlueForm.cs" />
+    <Compile Include="Skin\BlueSkin.cs" />
+    <Compile Include="Skin\BlueTextBox.cs" />
+    <Compile Include="Skin\ButtonSkin.cs" />
+    <Compile Include="Skin\ComboBoxSkin.cs" />
+    <Compile Include="Skin\DefaultButton.cs" />
+    <Compile Include="Skin\DefaultComboBox.cs" />
+    <Compile Include="Skin\DefaultForm.cs" />
+    <Compile Include="Skin\DefaultSkin.cs" />
+    <Compile Include="Skin\DefaultTextBox.cs" />
+    <Compile Include="Skin\FormSkin.cs" />
+    <Compile Include="Skin\ListBoxSkin.cs" />
+    <Compile Include="Skin\TextBoxSkin.cs" />
+    <Compile Include="Skin\YellowButton.cs" />
+    <Compile Include="Skin\YellowComboBox.cs" />
+    <Compile Include="Skin\YellowForm.cs" />
+    <Compile Include="Skin\YellowSkin.cs" />
+    <Compile Include="Skin\YellowTextBox.cs" />
+    <Compile Include="StorageMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StorageMessage.Designer.cs">
+      <DependentUpon>StorageMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierEdit.Designer.cs">
+      <DependentUpon>SupplierEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierInsert.Designer.cs">
+      <DependentUpon>SupplierInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierMessage.Designer.cs">
+      <DependentUpon>SupplierMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WareEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareEdit.Designer.cs">
+      <DependentUpon>WareEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WareInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareInsert.designer.cs">
+      <DependentUpon>WareInsert.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EmployeesEdit.resx">
+      <DependentUpon>EmployeesEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeesInsert.resx">
+      <DependentUpon>EmployeesInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeesMessage.resx">
+      <DependentUpon>EmployeesMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineMessage.resx">
+      <DependentUpon>MachineMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineRoomMessage.resx">
+      <DependentUpon>MachineRoomMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderInsert.resx">
+      <DependentUpon>OrderInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderMessage.resx">
+      <DependentUpon>OrderMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderMessageDetail.resx">
+      <DependentUpon>OrderMessageDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartEdit.resx">
+      <DependentUpon>PartEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartInsert.resx">
+      <DependentUpon>PartInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartMessage.resx">
+      <DependentUpon>PartMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartPicture.resx">
+      <DependentUpon>PartPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartsTransfer.resx">
+      <DependentUpon>PartsTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PWDEdit.resx">
+      <DependentUpon>PWDEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StorageMessage.resx">
+      <DependentUpon>StorageMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierEdit.resx">
+      <DependentUpon>SupplierEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierInsert.resx">
+      <DependentUpon>SupplierInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierMessage.resx">
+      <DependentUpon>SupplierMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareEdit.resx">
+      <DependentUpon>WareEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareInsert.resx">
+      <DependentUpon>WareInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{2129AD9A-A134-47E3-8A1E-37F926E771A1}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{1C48270C-BE4A-419A-977D-47CB43EC3E1D}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{993872E9-5CFD-449F-9694-CB9D62BCFCD2}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\addButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\addButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pwd_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pwd_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\TextBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\textbox2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\empicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\machineicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\ordericon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\particon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\supicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon\warehouseicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\colth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\Title.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

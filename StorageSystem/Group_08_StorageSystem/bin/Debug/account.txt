@@ -1,0 +1,5 @@
+0001|123456|admin
+0002|123456|storage
+0003||storage
+0004||order
+0005|123456|order

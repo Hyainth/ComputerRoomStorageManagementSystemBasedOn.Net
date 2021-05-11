@@ -1,0 +1,431 @@
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\Administrator\Downloads\Test99\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 1.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+D:\Downloads\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupInsert.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+D:\rwy\C#\Test99 Ver 1.4\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.5\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Test99 Ver 1.6\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+D:\Downloads\Test99 Ver 1.7\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+D:\Downloads\Test99 Ver 1.8\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageAddParts.resources
+D:\Downloads\Test99 Ver 1.9\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Administor.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Test99 Ver 2.0\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+D:\Downloads\Test99 Ver 2.1\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\32828\Desktop\Test99 Ver 2.2\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartPicture.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\hp\Desktop\Test99 Ver 2.3\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.exe
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.pdb
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.exe
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Group_08_StorageSystem.pdb
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.dll
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.dll
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.dll
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\BLL.pdb
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\DAL.pdb
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\bin\Debug\Model.pdb
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csprojResolveAssemblyReference.cache
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesEdit.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesInsert.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.EmployeesMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Login.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MachineRoomMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.MainForm.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderInsert.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.OrderMessageDetail.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartEdit.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartInsert.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartPicture.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PartsTransfer.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.Properties.Resources.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.PWDEdit.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.StorageMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierEdit.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierInsert.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.SupplierMessage.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareEdit.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.WareInsert.resources
+C:\Users\32828\Desktop\程序设计期末大作业\7.源程序\Group_08_StorageSystem\Group_08_StorageSystem\obj\x86\Debug\Group_08_StorageSystem.csproj.GenerateResource.Cache
